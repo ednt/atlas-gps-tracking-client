@@ -24,6 +24,11 @@ class MainViewController: IASKAppSettingsViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         title = NSLocalizedString("Traccar Client", comment: "")
+        
+        //EDNT START
+        title = "ATLAS Client"
+        //EDNT END
+        
         showCreditsFooter = false
         neverShowPrivacySettings = true
     }
