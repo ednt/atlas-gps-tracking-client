@@ -538,7 +538,7 @@
 				);
 				MARKETING_VERSION = 7.1;
 				OTHER_SWIFT_FLAGS = "-D FIREBASE";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ednt.AtlasClient;
+				PRODUCT_BUNDLE_IDENTIFIER = de.ednt.AtlasClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
@@ -706,7 +706,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 7.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ednt.AtlasClient;
+				PRODUCT_BUNDLE_IDENTIFIER = de.ednt.AtlasClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
@@ -738,7 +738,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 7.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ednt.AtlasClient;
+				PRODUCT_BUNDLE_IDENTIFIER = de.ednt.AtlasClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
